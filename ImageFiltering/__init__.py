@@ -1,2 +1,1 @@
-from smooth import *
-__all__ = ['smooth']
+__all__ = ['filter']
